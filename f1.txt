@@ -2,10 +2,7 @@ f1.txt is modified
 again modified same file 
 hello all how are you
 good afternnon
-aaaaaaaaaaaa
-<<<<<<< HEAD
-independence dat❤️❤️
-❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+aaaaaaaaa
 =======
 happy independence day to all
 >>>>>>> 
